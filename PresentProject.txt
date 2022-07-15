@@ -1,0 +1,8 @@
+- Inspired by the tv show WipeOut (surpass all of the obstacles to reach the enpoints without letting any platforms hitting the player into the water)
+- Apply a lot of tools learnt in the introduction modules into the game creation process:
++) Rotating/Moving platform or spawning guns
++) HUD desgin
++) Plus feature: Character customization => learnt from modules + self-explore: This allows users to freely customize the character in whatever ways they want
+- Learn how to use many new tools like unreal engine and perforce
+
+- Shout out to Tom, Mike, Paul, Max, Patrick, etc for helping us through the process. They taught us a lot of new things along the process like showing us the unseen bugs, etc
